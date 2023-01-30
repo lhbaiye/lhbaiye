@@ -101,5 +101,3 @@ In addition, I want to be a full stack development engineer, and have strong int
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
