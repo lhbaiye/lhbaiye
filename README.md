@@ -84,7 +84,7 @@ In addition, I want to be a full stack development engineer, and have strong int
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private=true&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhbaiye&count_private=true&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 
 </td></tr></table>  
