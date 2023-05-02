@@ -1,4 +1,4 @@
-## Hey 👋, I'm baiye!  
+## Hey 👋 
   
 
 <a href="https://github.com/lhbaiyie" target="_blank">
